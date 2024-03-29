@@ -657,9 +657,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ea58d423058e5d42a424b46f9f14b23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cameraRigidBody: {fileID: 963194230}
   cameraTransform: {fileID: 963194228}
   speed: 5
   rotationSpeed: 360
+  jumpForce: 20
 --- !u!4 &483223433
 Transform:
   m_ObjectHideFlags: 0
